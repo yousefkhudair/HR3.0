@@ -22,8 +22,13 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
 
 const Welcome = () => {
 
-  const connectWallet = () => {};
-  const handleSubmit = () => {};
+  const connectWallet = () => {
+
+  };
+  
+  const handleSubmit = () => {
+
+  };
 
   return (
     <div className="flex w-full justify-center items-center">
